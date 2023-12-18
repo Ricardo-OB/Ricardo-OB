@@ -63,24 +63,21 @@
 
 ## Connect with me 🤝
 
-<div align='left' style="display: flex; align-items: center;">
-<ul style="list-style-type: none;">
-    <li style="display: flex; align-items: center;">
+<div align='left'>
+<ul>
+    <li>
         <a href="https://linkedin.com/in/ricardo-ortega-bo/" target="blank" style>
-            <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.0//EN'  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'><svg enable-background="new 0 0 32 32" height="32px" id="Layer_1" version="1.0" viewBox="0 0 32 32" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M32,30c0,1.104-0.896,2-2,2H2c-1.104,0-2-0.896-2-2V2c0-1.104,0.896-2,2-2h28c1.104,0,2,0.896,2,2V30z" fill="#007BB5"/><g><rect fill="#FFFFFF" height="14" width="4" x="7" y="11"/><path d="M20.499,11c-2.791,0-3.271,1.018-3.499,2v-2h-4v14h4v-8c0-1.297,0.703-2,2-2c1.266,0,2,0.688,2,2v8h4v-7    C25,14,24.479,11,20.499,11z" fill="#FFFFFF"/><circle cx="9" cy="8" fill="#FFFFFF" r="2"/></g></g><g/><g/><g/><g/><g/><g/></svg>
-            ricardo-ortega-bo
+            <b>LinkedIn:</b> ricardo-ortega-bo
         </a>
     </li>
-    <li style="display: flex; align-items: center;">
+    <li>
         <a href="mailto:ricardo.bo@outlook.com" target="_blank">
-            <?xml version="1.0" ?><!DOCTYPE svg  PUBLIC '-//W3C//DTD SVG 1.1//EN'  'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'><svg height="32px" style="enable-background:new 0 0 512 512;" version="1.1" viewBox="0 0 512 512" width="32px" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g id="_x32_43-outlook"><g><path d="M471.624,126.283H284.746V54.219c-0.001-4.298-1.892-8.364-5.198-11.104    c-3.282-2.738-7.681-3.922-11.819-3.053L37.731,83.3c-6.814,1.275-11.73,7.211-11.73,14.157v317.106    c0,6.919,4.916,12.883,11.73,14.157l229.997,43.24c0.862,0.17,1.754,0.259,2.646,0.259c3.334,0,6.582-1.152,9.172-3.318    c3.309-2.734,5.199-6.828,5.199-11.099v-72.067h186.878c7.938,0,14.375-6.46,14.375-14.419V140.7    C486,132.747,479.563,126.283,471.624,126.283z" style="fill:#0071C5;"/><g><polygon points="429.736,155.112 284.746,155.112 284.746,187.845 341.419,223.984    " style="fill:#FFFFFF;"/><path d="M351.08,252.984c-2.592,2.02-5.726,3.026-8.831,3.026c-2.674,0-5.376-0.744-7.708-2.249     l-49.795-31.755v134.9h172.505v-186.75L351.08,252.984z" style="fill:#FFFFFF;"/></g><path d="M155.373,183.939c-39.618,0-71.874,38.805-71.874,86.484c0,47.683,32.256,86.485,71.874,86.485    s71.876-38.803,71.876-86.485C227.249,222.745,194.991,183.939,155.373,183.939z M155.373,328.08    c-23.776,0-43.123-25.857-43.123-57.656c0-31.797,19.347-57.654,43.123-57.654s43.13,25.858,43.13,57.654    C198.503,302.223,179.149,328.08,155.373,328.08z" style="fill:#FFFFFF;"/></g></g><g id="Layer_1"/></svg>
-            ricardo.bo@outlook.com
+            <b>Outlook:</b> ricardo.bo@outlook.com
         </a>
     </li>
-    <li style="display: flex; align-items: center;">
+    <li>
         <a href="mailto:ricardorob587@gmail.com" target="_blank">
-            <?xml version="1.0" ?><svg height="32px" viewBox="0 0 48 48" width="32px" xmlns="http://www.w3.org/2000/svg"><path d="M45,16.2l-5,2.75l-5,4.75L35,40h7c1.657,0,3-1.343,3-3V16.2z" fill="#4caf50"/><path d="M3,16.2l3.614,1.71L13,23.7V40H6c-1.657,0-3-1.343-3-3V16.2z" fill="#1e88e5"/><polygon fill="#e53935" points="35,11.2 24,19.45 13,11.2 12,17 13,23.7 24,31.95 35,23.7 36,17"/><path d="M3,12.298V16.2l10,7.5V11.2L9.876,8.859C9.132,8.301,8.228,8,7.298,8h0C4.924,8,3,9.924,3,12.298z" fill="#c62828"/><path d="M45,12.298V16.2l-10,7.5V11.2l3.124-2.341C38.868,8.301,39.772,8,40.702,8h0 C43.076,8,45,9.924,45,12.298z" fill="#fbc02d"/></svg>
-            ricardorob587@gmail.com
+            <b>Gmail:</b> ricardorob587@gmail.com
         </a>
     </li>
 </ul>
