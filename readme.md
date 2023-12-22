@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank"> Ricardo Ortega</a>👋</h1>
+<h1 align="center">Hi there, I'm Ricardo Ortega👋</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=30a14e&size=20&center=true&vCenter=true&width=600&height=80&lines=Biomedical+Engineer,;Back-End+Developer,;Passionate+Data+Scientist,;Ethical+AI+Researcher."></a> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=30a14e&size=20&center=true&vCenter=true&width=600&height=80&lines=Biomedical+Engineer,;Back-End+Developer,;Passionate+Data+Scientist,;Ethical+AI+Researcher.">
 </p>
 
 ## 👨‍💻 **About me**
@@ -42,15 +42,15 @@
 - **Softwares, Frameworks and Tools**:
 
     ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+    ![.NET](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+    ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Pycharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
     ![Intellij](https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-    <!-- ![.NET](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-    ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) -->
-
+  
 <br>
 
 ## 📊 My Stats 
