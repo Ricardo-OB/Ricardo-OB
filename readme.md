@@ -111,7 +111,7 @@
 <a href="https://github.com/Ricardo-OB/redes_neuronales">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=redes_neuronales" />
 </a>
-<a href="[https://github.com/Ricardo-OB/redes_neuronales](https://github.com/Ricardo-OB/spa-note-taker)">
+<a href="https://github.com/Ricardo-OB/spa-note-taker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=spa-note-taker" />
 </a>
 
