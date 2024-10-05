@@ -106,8 +106,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=ethics-ml" />
 </a>
 <br><br>
-<a href="https://github.com/Ricardo-OB/Proyecto_FastAPI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=Proyecto_FastAPI" />
+<a href="https://github.com/Ricardo-OB/spa-note-taker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=spa-note-taker" />
 </a>
 <a href="https://github.com/Ricardo-OB/fastapi-tf">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=fastapi-tf" />
@@ -116,8 +116,4 @@
 <a href="https://github.com/Ricardo-OB/redes_neuronales">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=redes_neuronales" />
 </a>
-<a href="https://github.com/Ricardo-OB/spa-note-taker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=spa-note-taker" />
-</a>
-
 </div>
