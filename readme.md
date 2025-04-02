@@ -10,7 +10,7 @@
 - I am a self-taught Back-end developer (Udemy, Coursera, Books)
 - Passionate Data Scientist with knowledge in Machine Learning and Deep Learning (Coursera, Books)
 - I mainly work on projects with Python, C#, Kotlin, and Java.
-- I am currently open to a job opportunity as a Trainee or Jr.
+- I am currently open to a job opportunity as a Jr. Dev.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
 
