@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Ricardo Ortega👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=30a14e&size=20&center=true&vCenter=true&width=600&height=80&lines=Biomedical+Engineer,;Back-End+Developer,;Passionate+Data+Scientist,;Ethical+AI+Researcher.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=30a14e&size=20&center=true&vCenter=true&width=600&height=80&lines=Biomedical+Engineer,;Backend+Developer,;Passionate+Data+Scientist,;Ethical+AI+Researcher.">
 </p>
 
 ## 👨‍💻 **About me**
 
 - Biomedical Engineer from Universidad Autonoma de Manizales
-- I am a self-taught Back-end developer (Udemy, Coursera, Books)
+- I am a self-taught Backend developer (Udemy, Coursera, Books, Projects)
 - Passionate Data Scientist with knowledge in Machine Learning and Deep Learning (Projects, Coursera, Books)
 - I mainly work on projects with Python, C#, Kotlin, and Java.
 - I am currently open to a job opportunity as a Jr. Developer or Jr. Data Scientist.
@@ -69,25 +69,32 @@
 
 ## Connect with me 🤝
 
-<div align='left'>
-<ul>
-    <li>
-        <a href="https://linkedin.com/in/ricardo-ortega-bo/" target="blank" style>
-            <b>LinkedIn:</b> ricardo-ortega-bo
-        </a>
-    </li>
-    <li>
-        <a href="mailto:ricardo.bo@outlook.com" target="_blank">
-            <b>Outlook:</b> ricardo.bo@outlook.com
-        </a>
-    </li>
-    <li>
-        <a href="mailto:ricardorob587@gmail.com" target="_blank">
-            <b>Gmail:</b> ricardorob587@gmail.com
-        </a>
-    </li>
-</ul>
-</div>
+<table>
+  <tr>
+    <td width="40" align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/>
+    </td>
+    <td valign="middle">
+      <a href="https://linkedin.com/in/ricardo-ortega-bo">ricardo-ortega-bo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" align="center" valign="middle">
+      <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="20"/>
+    </td>
+    <td valign="middle">
+      <a href="mailto:ricardo.bo@outlook.com">ricardo.bo@outlook.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="40" align="center" valign="middle">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20"/>
+    </td>
+    <td valign="middle">
+      <a href="mailto:ricardorob587@gmail.com">ricardorob587@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
 ## Pinned
 
