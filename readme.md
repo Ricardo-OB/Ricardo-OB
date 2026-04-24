@@ -6,7 +6,7 @@
 
 ## 👨‍💻 **About me**
 
-- Biomedical Engineer from Universidad Autonoma de Manizales
+- Biomedical Engineer from Universidad Autónoma de Manizales
 - I am a self-taught Backend developer (Udemy, Coursera, Books, Projects)
 - Passionate Data Scientist with knowledge in Machine Learning and Deep Learning (Projects, Coursera, Books)
 - I mainly work on projects with Python, C#, Kotlin, and Java.
@@ -98,30 +98,35 @@
 
 ## Pinned
 
-<div align="center" style="align-self: center;">
+<div align="center">
 
-<a href="https://github.com/Ricardo-OB/spotify-and-fastapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=spotify-and-fastapi" />
-</a>
+<table>
+<tr>
+<td>
 <a href="https://github.com/Ricardo-OB/tools4responsibleai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=tools4responsibleai" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&repo=tools4responsibleai" />
 </a>
-<br><br>
+</td>
+<td>
 <a href="https://github.com/Ricardo-OB/GUIs-python">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=GUIs-python" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&repo=GUIs-python" />
 </a>
+</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://github.com/Ricardo-OB/ethics-ml">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=ethics-ml" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&repo=ethics-ml" />
 </a>
-<br><br>
-<a href="https://github.com/Ricardo-OB/spa-note-taker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=spa-note-taker" />
-</a>
-<a href="https://github.com/Ricardo-OB/fastapi-tf">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=fastapi-tf" />
-</a>
-<br><br>
+</td>
+<td>
 <a href="https://github.com/Ricardo-OB/redes_neuronales">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&&repo=redes_neuronales" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ricardo-OB&repo=redes_neuronales" />
 </a>
+</td>
+</tr>
+
+</table>
+
 </div>
