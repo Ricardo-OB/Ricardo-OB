@@ -4,15 +4,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=30a14e&size=20&center=true&vCenter=true&width=600&height=80&lines=Biomedical+Engineer,;Backend+Developer,;Passionate+Data+Scientist,;Ethical+AI+Researcher.">
 </p>
 
-## 👨‍💻 **About me**
+## **About me**
 
-- Biomedical Engineer from Universidad Autónoma de Manizales
-- I am a self-taught Backend developer (Udemy, Coursera, Books, Projects)
-- Passionate Data Scientist with knowledge in Machine Learning and Deep Learning (Projects, Coursera, Books)
+- Biomedical Engineer from Universidad Autónoma de Manizales.
+- I am a self-taught Backend developer.
+- Passionate Data Scientist with knowledge in Machine Learning and Deep Learning.
 - I mainly work on projects with Python, C#, Kotlin, and Java.
-- I am currently open to a job opportunity as a Jr. Developer or Jr. Data Scientist.
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technical Skills</b>
+## **Technical Skills**
 
 - **Languages**:
 
@@ -56,18 +55,9 @@
     ![Intellij](https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
     ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
     ![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-  
-<br>
 
-## 📊 My Stats 
-<div align="center" style="align-self: center;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardo-ob&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=default" alt="ricardo-ob"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-ob&show_icons=true&locale=en&layout=compact&line_height=20&theme=default" alt="ricardo-ob"/>
-
-</div>
-
-## Connect with me 🤝
+## Connect with me
 
 <table>
   <tr>
